@@ -1,0 +1,8 @@
+环境安装
+conda create -n roberta-bilstm-crf python=3.8
+pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+pip install transformers==4.11
+
+参考博客网站：
+https://github.com/SenseKnowledge/pytorch-NER
+https://blog.csdn.net/qq_43800119/article/details/125978067

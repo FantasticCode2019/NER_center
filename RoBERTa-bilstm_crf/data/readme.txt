@@ -1,0 +1,2 @@
+放置自己需要训练的数据集
+数据集有两个，分别是train.json,dev.json。这些数据分别是用labelstudio标注好的，然后导出的json数据。

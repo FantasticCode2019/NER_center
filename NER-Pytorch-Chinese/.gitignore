@@ -1,0 +1,11 @@
+# ignore ALL .log files
+
+
+# ignore ALL files in ANY directory named temp
+output/
+!output/out_dir_put_here
+
+data/msra/
+data/ontonote4/
+data/mrc_data/
+
